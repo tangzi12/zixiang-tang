@@ -6,6 +6,7 @@ A responsive, English-language founder profile for investor and collaboration co
 
 - [Zixiang Tang](https://tangzi12.github.io/zixiang-tang/)
 - [Jake Lu](https://tangzi12.github.io/zixiang-tang/jake-lu/) — technical leadership, scientific model optimization, and Gemini-related model quality work.
+- [Da Li](https://tangzi12.github.io/zixiang-tang/da-li/) — AI compute, GPU orchestration, and distributed infrastructure.
 
 ## Files
 
