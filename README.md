@@ -2,6 +2,11 @@
 
 A responsive, English-language founder profile for investor and collaboration conversations. Built as a static site for GitHub Pages with no build step.
 
+## Published profiles
+
+- [Zixiang Tang](https://tangzi12.github.io/zixiang-tang/)
+- [Jake Lu](https://tangzi12.github.io/zixiang-tang/jake-lu/) — technical leadership, scientific model optimization, and Gemini-related model quality work.
+
 ## Files
 
 - `index.html` — profile and source references
@@ -9,6 +14,7 @@ A responsive, English-language founder profile for investor and collaboration co
 - `favicon.svg` — monogram favicon
 - `assets/zixiang-tang-founder.jpg` — founder portrait
 - `.nojekyll` — enables buildless GitHub Pages hosting
+- `jake-lu/index.html` and `jake-lu/profile.css` — Jake Lu's team profile
 
 ## Preview
 
